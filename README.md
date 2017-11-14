@@ -1,5 +1,22 @@
-# Firebase Web Codelab - Start code
+# [Friendly Chat Time](friendlychattime.firebaseapp.com)
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+A functional chat app written in vanilla JavaScript, HTML and CSS connected to Firebase for real time processing and communication.
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+You can sign in with a Google account, chat and upload images. 
+
+Uses: 
+- Firebase Auth for authentication 
+- Firebase Database for users 
+- Firebase Cloud Messaging and Service Workers for Notifications 
+- Firebase storage for uploads
+- Firebase hosting for deployment
+
+---
+**TODO:**
+[ ] Add chat rooms 
+[ ] Add personal message option 
+[ ] [Cloud Functions](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions)
+
+---
+Created from codelab tutorial: [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+
