@@ -4,8 +4,8 @@
   "launch_path": "/index.html",
   "description": "Chat with friends using Firebase 2.0",
   "developer": {
-    "name": "Google inc.",
-    "url": "https://firebase.google.com"
+    "name": "Ashes74",
+    "url": "https://www.github.com/ashes74"
   },
   "installs_allowed_from": [
     "*"
@@ -15,7 +15,7 @@
   },
   "locales": {
     "en": {
-      "name": "Friendly Chat",
+      "name": "Friendly Chat Time",
       "description": "Chat with friends using Firebase 2.0"
     }
   }
